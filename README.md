@@ -9,13 +9,21 @@ The objective of this project is to help chocolate brands make data-driven decis
 Food and Beverage Industry. This industry relies on sales data analysis to track product performance, optimize distribution and enhance revenue strategies. By analyzing the global chocolate sales trends, Hazel Nut stores can identify top-selling products, high-demand regions, and key sales contributors to drive revenue growth and improve decision-making. 
 
 **PROBLEMS BEING ADDRESSED**
+
 **Identifying Top Selling Products:** Hazel Nut stores need to know which chocolate products generate the most revenue in order to focus on high-performing items and optimize inventory. 
+
 **Products Performance by Country:** Understanding which country has the highest sales to help the store identify strong markets and potential areas for business expansion. 
+
 **Sales Team Performance:** Recognizing top performing salesperson to increase team performance, implement incentive programs and improve underperforming salesperson and strategies. 
+
 **Seasonal Sales Fluctuation:** Analyzing the quarterly sales trend to predict demand and manage supply, planning marketing strategies and promotions, and overall boosting revenue. 
+
 **Product Demand and Logistics:** Identifying which products have the highest number of boxes shipped helps in refining distribution strategies and ensuring efficient stock management. 
+
 **Underperforming Sales Persons:** Identifying the bottom sales performers in order to provide training and workshops, strategy adjustments, or reassessing team sales efficiency. 
+
 **Shipping and Distribution Insights:** Knowing which countries shipped the most boxes highlights the supply chain strengths, potential logistics challenges, and regional products demand. 
+
 **Overall Revenue Trends:** By analyzing sales revenue trends overtime, HazelNut stores can anticipate and predict future revenue performance and adjust strategies accordingly. 
  
 **NOTABLE TRENDS AND PATTERNS FROM THE DASHBOARD ANALYSIS
