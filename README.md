@@ -1,4 +1,5 @@
 ![Hazel Nut Dashboard Analyticals](https://github.com/user-attachments/assets/d244d294-5325-44cb-bc37-e821835d008b)
+
 **INTRODUCTION**
 The objective of this project is to help chocolate brands make data-driven decisions to increase profitability, improve sales distribution and enhance marketing efforts by examining key factors such as sales persons, products sales, country’s demand, revenue, and shipment volume. 
 
