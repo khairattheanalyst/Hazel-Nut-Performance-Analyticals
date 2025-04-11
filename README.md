@@ -1,9 +1,11 @@
 ![Hazel Nut Dashboard Analyticals](https://github.com/user-attachments/assets/d244d294-5325-44cb-bc37-e821835d008b)
 
 **INTRODUCTION**
+
 The objective of this project is to help chocolate brands make data-driven decisions to increase profitability, improve sales distribution and enhance marketing efforts by examining key factors such as sales persons, products sales, country’s demand, revenue, and shipment volume. 
 
 **INDUSTRY TYPE OF DATA**
+
 Food and Beverage Industry. This industry relies on sales data analysis to track product performance, optimize distribution and enhance revenue strategies. By analyzing the global chocolate sales trends, Hazel Nut stores can identify top-selling products, high-demand regions, and key sales contributors to drive revenue growth and improve decision-making. 
 
 **PROBLEMS BEING ADDRESSED**
